@@ -103,8 +103,8 @@ ul {
 }
 
 p {
-  font-size: 14px;
-  line-height: 25px;
+  font-size: 18px;
+  line-height: 22px;
   color: #4a4a4a;
 }
 
@@ -564,7 +564,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #dc8cdb!important;
+    color: #ff80bf!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -1755,7 +1755,7 @@ body {
   }
   .header-area {
     background: rgb(219,138,222) !important;
-    background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%) !important;
+    background: linear-gradient(-145deg, rgb(255, 128, 191) 0%, rgba(246,191,159,19) 100%) !important;
   }
   .services .owl-nav .owl-next{
     right: -70px;
