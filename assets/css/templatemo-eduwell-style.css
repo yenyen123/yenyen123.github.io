@@ -103,7 +103,7 @@ ul {
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 22px;
   color: #4a4a4a;
 }
@@ -198,7 +198,11 @@ body {
 }
 
 section {
-  margin-top: 140px;
+  margin-top: 120px;
+}
+
+section.more-info {
+  margin-top: 40px;
 }
 
 #contact-section {
@@ -1268,7 +1272,8 @@ section.page-heading {
 
 section.page-heading .header-text {
   border-bottom: 3px solid #eee;
-  padding-bottom: 80px;
+  padding-bottom: 30px;
+  padding-top: 10px;
 }
 
 section.page-heading .header-text h4 {
